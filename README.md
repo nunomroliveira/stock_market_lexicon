@@ -39,3 +39,10 @@ The applied POS tags are based on the Penn Treebank POS tagset:
 We added two more tags:
 - null: bigram
 - EM: Emoticons    
+
+Citation Request:
+
+Please include this citation if you use this lexicon resource: 
+
+N. Oliveira, P. Cortez, N. Areal. Stock market sentiment lexicon acquisition using microblogging data and statistical measures.
+In Decision Support Systems, Elsevier, In press, 2016.
