@@ -44,5 +44,4 @@ Citation Request:
 
 Please include this citation if you use this lexicon resource: 
 
-N. Oliveira, P. Cortez, N. Areal. Stock market sentiment lexicon acquisition using microblogging data and statistical measures.
-In Decision Support Systems, Elsevier, In press, 2016.
+Oliveira, Nuno, Paulo Cortez, and Nelson Areal. "Stock market sentiment lexicon acquisition using microblogging data and statistical measures." Decision Support Systems 85 (2016): 62-73.
